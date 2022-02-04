@@ -17,4 +17,8 @@
     <li><a href="https://github.com/banditsbeware/ProctorPhil">ProctorPhil</a> - discord bot for my personal server</li>
     <li><a href="https://github.com/banditsbeware/bonk">bonk</a> - flask app that serves my <a href="https://bonk.life">personal website</a></li>
     <li><a href="https://github.com/banditsbeware/pqbl">pqbl</a> - <em>our</em> Post-Quarantine Bucket <a href="https://pigeon.dog">List</a>! :shipit:</li>
+    <br><br>
 </p>
+<p align='center'>
+<img width='500px' src="https://user-images.githubusercontent.com/54778224/152611797-90ef1033-3cf9-46b1-adb8-577924b33975.gif">
+  </p>
