@@ -13,6 +13,7 @@
 <h4>:star: projects</h4>
     <li><a href="https://github.com/tochy97/seniorproject">senior design project</a> - database webapp to manage CSE department inventory</li>
     <li><a href="https://github.com/banditsbeware/ooproject">ooproject</a> - chatbot for navigating UTA's online labyrinth</li>
+    <li><a href="https://github.com/banditsbeware/dash">dash</a> - UTA ITLab coronavirus data visualization dashboard</li>
     <li><a href="https://github.com/banditsbeware/ProctorPhil">ProctorPhil</a> - discord bot for my personal server</li>
     <li><a href="https://github.com/banditsbeware/bonk">bonk</a> - flask app that serves my <a href="https://bonk.life">personal website</a></li>
     <li><a href="https://github.com/banditsbeware/pqbl">pqbl</a> - <em>our</em> Post-Quarantine Bucket <a href="https://pigeon.dog">List</a>! :shipit:</li>
