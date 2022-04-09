@@ -1,15 +1,13 @@
 
 <p align='center'>
   <samp>
-    :wave: i'm david! <br>
-    i'm in my last year at UTA studying physics and computer science; <br>
-    i like to run, drink coffee, write code, and solve problems :grin:
+    I love computers; all my friends are inside of them (╯▽╰ )
   </samp>
   <br><br>
   <img width='100%' src="https://user-images.githubusercontent.com/54778224/152609120-09f52857-3dd4-4e54-bb51-4dcbf749df8e.gif">
   <br><br>  
-  <span>let's connect on <a href="https://www.linkedin.com/in/david-rademacher/">LinkedIn</a>!</span><br>
-  <span>follow me on instagram: <a href="https://www.instagram.com/rm_dkr/">@rm_dkr</a></span>
+  <span> ✨ <a href="https://www.linkedin.com/in/david-rademacher/">LinkedIn</a> ✨&emsp;&emsp;&emsp;</span><br>
+  <span> ✨ <a href="https://www.instagram.com/rm_dkr/">@rm_dkr</a> ✨&emsp;&emsp;&emsp;</span>
 <h4>:star: projects</h4>
     <li><a href="https://github.com/tochy97/seniorproject">senior design project</a> - database webapp to manage CSE department inventory</li>
     <li><a href="https://github.com/banditsbeware/craig5">craig5</a> - bot that brings the Wolfram Language into your discord server</li>
