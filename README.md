@@ -1,20 +1,17 @@
 
 <p align='center'>
-  <samp>
-    I love computers; all my friends are inside of them (╯▽╰ )
-  </samp>
-  <br><br>
+  <br>
   <img width='100%' src="https://user-images.githubusercontent.com/54778224/152609120-09f52857-3dd4-4e54-bb51-4dcbf749df8e.gif">
   <br><br>  
-  <span> ✨ <a href="https://www.linkedin.com/in/david-rademacher/">LinkedIn</a> ✨&emsp;&emsp;&emsp;</span><br>
-  <span> ✨ <a href="https://www.instagram.com/rm_dkr/">@rm_dkr</a> ✨&emsp;&emsp;&emsp;</span>
-<h4>:star: projects</h4>
+  <span>  <a href="https://www.linkedin.com/in/david-rademacher/">LinkedIn</a> &emsp;&emsp;&emsp;</span><br>
+  <span>  <a href="https://www.instagram.com/rm_dkr/">@rm_dkr</a> &emsp;&emsp;&emsp;</span>
+<h4>projects</h4>
     <li><a href="https://github.com/tochy97/seniorproject">senior design project</a> - database webapp to manage CSE department inventory</li>
     <li><a href="https://github.com/banditsbeware/craig5">craig5</a> - bot that brings the Wolfram Language into your discord server</li>
     <li><a href="https://github.com/ITLab-Research/cowiz-bangkok-dashboard">cowiz-bangkok-dashboard</a> - UTA ITLab coronavirus data visualization dashboard</li>
-    <li><a href="https://github.com/banditsbeware/ProctorPhil">ProctorPhil</a> - discord bot for my personal server</li>
-    <li><a href="https://github.com/banditsbeware/bonk">bonk</a> - flask app that serves my <a href="https://bonk.life">personal website</a></li>
-    <li><a href="https://github.com/banditsbeware/pqbl">pqbl</a> - <em>our</em> Post-Quarantine Bucket <a href="https://pigeon.dog">List</a>! :shipit:</li>
+    <li><a href="https://github.com/banditsbeware/ProctorPhil">ProctorPhil</a> - discord bot for my server</li>
+    <li><a href="https://extremefatigue.net">my personal website</a></li>
+    <li><a href="https://pigeon.dog">Post-Quarantine Bucket List</a></li>
     <br><br>
 </p>
 <p align='center'>
