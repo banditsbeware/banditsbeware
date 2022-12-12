@@ -10,7 +10,7 @@
     <li><a href="https://github.com/banditsbeware/craig5">craig5</a> - bot that brings the Wolfram Language into your discord server</li>
     <li><a href="https://github.com/ITLab-Research/cowiz-bangkok-dashboard">cowiz-bangkok-dashboard</a> - UTA ITLab coronavirus data visualization dashboard</li>
     <li><a href="https://github.com/banditsbeware/ProctorPhil">ProctorPhil</a> - discord bot for my server</li>
-    <li><a href="https://extremefatigue.net">my personal website</a></li>
+    <li><a href="https://github.com/banditsbeware/extremefatigue">extremefatigue</a> - my personal <a href='https://extremefatigue.net'>website</a></li>
     <li><a href="https://pigeon.dog">Post-Quarantine Bucket List</a></li>
     <br><br>
 </p>
